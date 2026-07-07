@@ -1,0 +1,7 @@
+server/server
+client/client
+*.exe
+*.out
+*.app
+.vscode/
+.vs/
