@@ -1,4 +1,4 @@
-# VPN Tunnel System
+# Encrypted Tunnel System
 
 A VPN-like encrypted tunneling system built in C++. The client and server communicate over a TCP connection where all traffic is encrypted end-to-end using AES-256-GCM.
 ---
@@ -90,7 +90,7 @@ sudo apt-get install build-essential libssl-dev
 ```
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/adityag0512/Encrypted-TCP-Socket-Tunnel
 cd vpn_tunnel
 make
 ```
